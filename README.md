@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pschonfeld, Cloud Engineer @ [Trask](https://thetrask.com "Global IT Service Company"), a Global IT Service Company
+- 👋 Hi, I’m @pschonfeld, Cloud Engineer at [Trask](https://thetrask.com "Global IT Service Company"), a Global IT Service Company
 - 💞 I'm passionate about cloud platforms, particularly Azure ☁️
 - 📫 Feel free to reach me at [petr.schonfeld@gmail.com](mailto:petr.schonfeld@gmail.com) if you'd like to connect.
